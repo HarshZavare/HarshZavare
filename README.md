@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Harsh 👋
 
-<!--
-**HarshZavare/HarshZavare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Associate WordPress Engineer  
+💻 Tech Stack: PHP | WordPress | JavaScript | MySQL | HTML | CSS  
+🌍 Interested in Open Source & Remote Engineering Culture  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- Passionate about backend and WordPress development
+- Hands-on experience building WordPress websites and custom functionality
+- Comfortable working with PHP and WordPress core concepts
+- Actively preparing to contribute to open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- WordPress (Themes, Custom Functions, Hooks)
+- PHP (Basics to Intermediate)
+- JavaScript
+- MySQL
+- Git & GitHub
+- HTML5 & CSS3
+
+## 🚀 Current Focus
+- Strengthening PHP for WordPress development
+- Building custom WordPress themes & plugins
+- Making quality open-source contributions
+
+📌 Open to remote roles and continuous learning.
+
