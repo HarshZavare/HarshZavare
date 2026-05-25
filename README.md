@@ -1,27 +1,102 @@
 # Hi, I'm Harsh 👋
 
-🎯 Aspiring Associate WordPress Engineer  
-💻 Tech Stack: PHP | WordPress | JavaScript | MySQL | HTML | CSS  
-🌍 Interested in Open Source & Remote Engineering Culture  
+🎯 Aspiring DevOps & Cloud Engineer | WordPress & Backend Developer  
+💻 Tech Stack: AWS | Docker | Jenkins | GitHub Actions | Terraform | PHP | WordPress | JavaScript | MySQL  
+🌍 Interested in DevOps Culture, Cloud Infrastructure & Open Source  
+
+---
 
 ## 👨‍💻 About Me
-- Passionate about backend and WordPress development
-- Hands-on experience building WordPress websites and custom functionality
-- Comfortable working with PHP and WordPress core concepts
-- Actively preparing to contribute to open-source projects
 
-## 🔧 Skills
-- WordPress (Themes, Custom Functions, Hooks)
-- PHP (Basics to Intermediate)
+- Passionate about DevOps, cloud infrastructure, and backend engineering
+- Hands-on experience with Docker, Jenkins, GitHub Actions, and AWS deployments
+- Built and deployed scalable applications using CI/CD pipelines and containerization
+- Experience in WordPress development and backend logic implementation
+- Comfortable working with Linux-based workflows, Git, and automation tools
+- Actively learning Infrastructure as Code (Terraform) and scalable cloud architectures
+
+---
+
+## 🔧 DevOps & Cloud Skills
+
+### ☁️ Cloud Platforms
+- AWS (EC2, S3, IAM, VPC)
+
+### ⚙️ DevOps & Automation
+- Docker
+- Jenkins
+- GitHub Actions
+- CI/CD Pipelines
+- Terraform
+- Deployment Automation
+
+### 🛠 Development & Backend
+- PHP
 - JavaScript
+- Python
+- C++
+- WordPress
+- React
+- TypeScript
+
+### 🗄 Databases
 - MySQL
-- Git & GitHub
-- HTML5 & CSS3
+- PostgreSQL
+
+### 🔄 Tools & Version Control
+- Git
+- GitHub
+- Postman
+
+---
 
 ## 🚀 Current Focus
-- Strengthening PHP for WordPress development
-- Building custom WordPress themes & plugins
-- Making quality open-source contributions
 
-📌 Open to remote roles and continuous learning.
+- Strengthening DevOps & Cloud Engineering skills
+- Building scalable CI/CD workflows
+- Learning Kubernetes & advanced AWS services
+- Contributing to open-source projects
+- Building production-ready cloud-native applications
 
+---
+
+## 📌 Featured Projects
+
+### 🚀 StayMates – Community-Based Accommodation Platform
+
+- Deployed scalable application infrastructure on AWS EC2
+- Configured CI/CD pipelines using GitHub Actions & Jenkins
+- Managed Docker containerization and automated deployments
+- Integrated Neon PostgreSQL cloud database
+- Implemented rolling deployment workflows
+
+### 🌐 Jify.co – Corporate Finance Website
+
+- Developed and optimized backend workflows using PHP
+- Improved deployment process and website performance
+- Enhanced SEO and responsiveness
+
+### 🛒 OG Mushrooms – eCommerce Store
+
+- Built backend workflows for order processing & payments
+- Implemented database-driven architecture
+- Managed deployment and optimization
+
+---
+
+## 🏆 Certifications & Achievements
+
+- AWS Cloud Fundamentals
+- The Complete SQL Certification Course – Udemy
+- 🥇 1st Rank – GIAN Workshop on Blockchain Evolution & Applications (NIT Goa)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/harsh-zavare
+- 📧 Email: harshzavare2004@gmail.com
+
+---
+
+📌 Open to DevOps, Cloud, Backend, and Remote Engineering Opportunities.
